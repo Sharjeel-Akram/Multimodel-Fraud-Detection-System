@@ -1,3 +1,13 @@
+---
+title: Fraud Detection Platform
+emoji: 🛡️
+colorFrom: blue
+colorTo: indigo
+sdk: docker
+app_file: app.py
+pinned: false
+---
+
 # Fraud Detection Platform
 
 A Flask-based web application for credit card fraud detection using multiple machine learning models with a case workflow management system.
